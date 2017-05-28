@@ -1,6 +1,12 @@
 # ObsKegTracker
 Display keg stats onto browsers and OBS browser source.
 
+## Screenshots
+![Screenshots](https://github.com/nowak-mateusz/ObsKegTracker/blob/master/assets/screenshot.png)
+###
+
+![Demo](https://github.com/nowak-mateusz/ObsKegTracker/blob/master/assets/demo.png)
+
 ## Instructions
  1. Run the application `KeystrokeServer.exe` and click the `Start` button.
  2. Open the `index.html` on the browser or the OBS browser source.
