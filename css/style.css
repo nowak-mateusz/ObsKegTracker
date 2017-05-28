@@ -1,0 +1,17 @@
+body {
+	color: white;
+	background-color: black;
+}
+
+table {
+	border-collapse: collapse;
+	border: 0px black solid;
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	font-weight: bold;
+}
+
+td {
+	border: 0px black solid;
+	padding: 5px;
+}
