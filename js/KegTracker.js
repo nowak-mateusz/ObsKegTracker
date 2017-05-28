@@ -23,7 +23,6 @@ function updateData() {
 		.selectAll("td")
 		.data(function(d) { return d; }).enter()
 		.append("td")
-		//.attr("align","center")
 		.text(function(d) { return d; });
 
 	d3.selectAll("td").each (
